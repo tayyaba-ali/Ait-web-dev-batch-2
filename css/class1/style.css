@@ -1,0 +1,29 @@
+/* type selector  */
+
+/* 
+h1{
+    background-color: blue;
+    color: aquamarine;
+}
+
+a{
+    background-color: chocolate;
+    color: white;
+} */
+
+
+
+/* id selector */
+
+/* #akela {
+    background-color: chocolate;
+    color: white;
+} */
+
+
+/* class selector  */
+
+.same{
+     background-color: rgb(185, 11, 54);
+    color: rgb(44, 217, 29);
+}
