@@ -1,0 +1,73 @@
+/* type selector */
+/* h1,p{
+    background-color: aquamarine;
+    color: blueviolet;
+} */
+
+/* id selector */
+/* 
+#heading {
+    background-color: aquamarine;
+    color: blueviolet;
+}
+
+.sth{
+    background-color: rgba(18, 188, 106, 0.77);
+    color: rgb(3, 149, 193);
+} */
+
+
+/* * {
+    margin: 0;
+    padding: 0;
+
+} */
+
+/* h1,
+p {
+    background-color: red;
+} */
+
+
+
+/* child selector */
+
+/* .container>p{
+    background-color: blue;
+} */
+
+/* Descendant selector */
+/* .container  .para{
+    background-color: blue;
+} */
+
+
+/* adjacent sibling */
+
+/* .innercontainer+h2{
+    background-color: green;
+} */
+
+/*  general sibling */
+/* 
+.innercontainer~h2{
+    background-color: green;
+} */
+
+
+#head {
+    background-color: blueviolet;
+}
+
+.abc {
+    background-color: cadetblue;
+}
+
+/* 147 predefined colors */
+
+/* names */
+/* hexcode */
+/* rgb */
+h1 {
+    background-color:#C66E52 !important;
+}
